@@ -9,6 +9,7 @@ namespace EjObligatorio2.ResolucionIvan.Servicios
 {
     internal class OperacionImplementacion : OperacionInterfaz
     {
+        int valorAntiguo;
 
         public int añadirVenta(int valorAntiguo)
         {

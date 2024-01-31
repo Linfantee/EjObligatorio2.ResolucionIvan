@@ -8,7 +8,7 @@ namespace EjObligatorio2.ResolucionIvan.Servicios
 {
     internal interface OperacionInterfaz
     {
-        public int añadirVenta(int valor);
+        public int añadirVenta(int nuevaVenta);
 
         public int retirarDinero(int nuevaVenta);
 

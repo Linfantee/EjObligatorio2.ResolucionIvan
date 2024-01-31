@@ -32,7 +32,7 @@ class Program
                 case 2:
                     Console.WriteLine("");
                     oi.mostrarTotal(venta);
-                    Console.WriteLine("");
+                     Console.WriteLine("");
                     break;
                 case 3:
                     Console.WriteLine("Se ha cerrado Menú.");
